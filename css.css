@@ -185,7 +185,42 @@ input[type="submit"]{
     line-height: 70px;
     border-radius: 30px;
 }
+.social{ 
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: xx-large;
+    font-family: sans-serif;
+    line-height: 100px;
+    width: 100%;
+    
 
+}
+.social div{
+    float: left;
+    width: 50%;
+    line-height: 100px;
+    font-size: xx-large;
+    font-family: sans-serif;
+    text-decoration: none;
+    margin-left: 25%;
+    display: block;
+    
+}
+
+
+
+
+    
+.l{
+    color: #4f3400;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    text-decoration: none;
+    margin-right: 20px;
+
+}
 
 
 
